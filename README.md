@@ -1,4 +1,16 @@
+1. Project Overview
 
+This project demonstrates a full MLOps lifecycle:
+
+Data extraction and preprocessing
+
+Training a Random Forest model
+
+Tracking metrics & artifacts with MLflow
+
+Versioning data using DVC
+
+CI automation via GitHub Workflows
 mlops-mlflow-assignment/
 │
 ├── data/
