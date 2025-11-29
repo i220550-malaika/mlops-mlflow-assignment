@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Dell/mlops-mlflow-assignment/mlruns/837386637866832520/6ea86726bd654095a614c0cf92389e20/artifacts
+end_time: 1764431000521
+entry_point_name: ''
+experiment_id: '837386637866832520'
+lifecycle_stage: active
+run_id: 6ea86726bd654095a614c0cf92389e20
+run_name: unique-cat-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764431000414
+status: 4
+tags: []
+user_id: Dell

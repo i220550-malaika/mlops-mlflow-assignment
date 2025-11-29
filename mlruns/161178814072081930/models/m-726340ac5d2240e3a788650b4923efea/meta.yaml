@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Dell/mlops-mlflow-assignment/mlruns/161178814072081930/models/m-726340ac5d2240e3a788650b4923efea/artifacts
+creation_timestamp: 1764435868334
+experiment_id: '161178814072081930'
+last_updated_timestamp: 1764435868411
+model_id: m-726340ac5d2240e3a788650b4923efea
+model_type: null
+name: random_forest_model
+source_run_id: 0a083b1dee3b4d2ab9d12b8c4f54bcf0
+status: 3
+status_message: null

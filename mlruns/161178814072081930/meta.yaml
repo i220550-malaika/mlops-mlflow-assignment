@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Dell/mlops-mlflow-assignment/mlruns/161178814072081930
+creation_time: 1764435007158
+experiment_id: '161178814072081930'
+last_update_time: 1764435007158
+lifecycle_stage: active
+name: boston_housing_pipeline

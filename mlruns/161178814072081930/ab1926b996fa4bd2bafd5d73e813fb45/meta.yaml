@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Dell/mlops-mlflow-assignment/mlruns/161178814072081930/ab1926b996fa4bd2bafd5d73e813fb45/artifacts
+end_time: 1764435664211
+entry_point_name: ''
+experiment_id: '161178814072081930'
+lifecycle_stage: active
+run_id: ab1926b996fa4bd2bafd5d73e813fb45
+run_name: handsome-chimp-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764435663395
+status: 4
+tags: []
+user_id: Dell

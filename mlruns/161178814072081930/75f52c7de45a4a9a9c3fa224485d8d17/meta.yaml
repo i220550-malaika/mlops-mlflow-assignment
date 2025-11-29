@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Dell/mlops-mlflow-assignment/mlruns/161178814072081930/75f52c7de45a4a9a9c3fa224485d8d17/artifacts
+end_time: 1764435379105
+entry_point_name: ''
+experiment_id: '161178814072081930'
+lifecycle_stage: active
+run_id: 75f52c7de45a4a9a9c3fa224485d8d17
+run_name: adventurous-mole-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764435379036
+status: 4
+tags: []
+user_id: Dell

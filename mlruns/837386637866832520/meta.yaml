@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Dell/mlops-mlflow-assignment/mlruns/837386637866832520
+creation_time: 1764431000015
+experiment_id: '837386637866832520'
+last_update_time: 1764431000015
+lifecycle_stage: active
+name: MLflow_Classifier
